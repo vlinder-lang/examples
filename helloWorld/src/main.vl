@@ -1,0 +1,5 @@
+import vlinder.log
+
+sub main(console: log.Logger): () {
+        log.info(console, "Hello, world!")
+}
